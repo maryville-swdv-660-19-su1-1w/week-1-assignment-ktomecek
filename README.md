@@ -16,10 +16,10 @@ The deliverable for this week was to learn how to install and use a packaging su
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the pyinstaller [pyinstaller](http://www.pyinstaller.org/) to install beers.
 
 ```bash
-pip install foobar
+pyinstaller -y -F -n drinkbeer beers.py
 ```
 
 ## Usage
