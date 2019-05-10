@@ -16,7 +16,7 @@ The deliverable for this week was to learn how to install and use a packaging su
 
 ## Installation
 
-Use the pyinstaller [pyinstaller](http://www.pyinstaller.org/) to install beers.
+Use the [pyinstaller](http://www.pyinstaller.org/) to create the installion.
 
 ```bash
 pyinstaller -y -F -n drinkbeer beers.py
@@ -38,3 +38,6 @@ At the command prompt type:
 | datetime      | Date and Time functions           |
 | random_name   | Generates random silly names      |
 
+
+### Date
+May 10th 2019
